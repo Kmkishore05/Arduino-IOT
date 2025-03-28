@@ -12,18 +12,18 @@
 #include <Firebase_ESP_Client.h>
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "Doomsday"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "SSID your"
+#define WIFI_PASSWORD "password"
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyD8bn9EVy3TYHOqdVdJQqF0DfF9a39p6dU"
+#define API_KEY "YOUR_API_KEY"
 
 /* 3. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "digitaltwin130@gmail.com"
-#define USER_PASSWORD "digitaltwin@2025"
+#define USER_EMAIL "yourmialid"
+#define USER_PASSWORD "your_pass"
 
 /* 4. Define the RTDB URL */
-#define DATABASE_URL "digitaltwin-f5463-default-rtdb.firebaseio.com" 
+#define DATABASE_URL "YOUR_URL" 
 
 #define LED_PIN                 2
 #define MOTER_PIN               5
